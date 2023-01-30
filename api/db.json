@@ -1,0 +1,46 @@
+{
+  "developers": [
+    {
+      "name": "Dulal",
+      "email": "dulal@gmail.com",
+      "age": "23",
+      "address": "Thakurgaon",
+      "photo": "http://demo.themecanyon.org/primax/images/primax/team/team-2.jpg",
+      "id": 3
+    },
+    {
+      "name": "Rohima",
+      "email": "Rohim@gmail.com",
+      "age": "32",
+      "address": "Dhaka",
+      "photo": "http://demo.themecanyon.org/primax/images/primax/team/team-8.jpg",
+      "id": 4
+    },
+    {
+      "name": "Somalia",
+      "email": "developerrubel461@gmail.com",
+      "age": "85",
+      "address": "Thakurgaon",
+      "photo": "http://demo.themecanyon.org/primax/images/primax/team/team-4.jpg",
+      "id": 5
+    },
+    {
+      "name": "Rubel Hossain",
+      "email": "developerrubel.me@gmail.com",
+      "age": "23",
+      "address": "Thakurgaon",
+      "photo": "http://demo.themecanyon.org/primax/images/primax/team/team-2.jpg",
+      "id": 6
+    },
+    {
+      "name": "Example",
+      "email": "example.test@gmail.com",
+      "age": "25",
+      "address": "Uttora",
+      "photo": "http://demo.themecanyon.org/primax/images/primax/team/team-4.jpg",
+      "id": 7
+    }
+  ],
+  "products": [],
+  "brands": []
+}

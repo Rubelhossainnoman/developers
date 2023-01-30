@@ -1,0 +1,13 @@
+.section{
+    .card-header{
+        position: relative;
+        a.Edit{
+           position: absolute;
+           left: 20px;
+           top: 0;
+           bottom: 0;
+           margin: auto; 
+           height: 35px;
+        }
+    }
+}
